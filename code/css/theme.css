@@ -1,0 +1,33 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+.navbar{
+	width:100%;
+	padding: 0px;
+	margin: 0px;
+}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding-top: 13px;
+  width: auto;
+  margin-right:10px;
+}
+
+.jumbotron{
+	background: url('../images/provided/balloon_takeoff.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+#mainJumbo .jumbotron{
+	background: url('../images/provided/hillside_view.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
